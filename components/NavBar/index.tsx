@@ -94,11 +94,11 @@ export default function NavBar() {
                             component="div"
                             sx={{ flexGrow: 1, cursor: "default" }}
                         >
-                            {title || "ZHKSB.net"}
+                            {title || "FZWSB.icu"}
                         </Typography>
                     </NextLink>
                     <Link
-                        href={"https://github.com/zhk-sb/zhk"}
+                        href={"https://github.com/HiTech0926/fzwsb"}
                         rel={"noopener"}
                         underline={"none"}
                         color="inherit"
@@ -132,21 +132,6 @@ export default function NavBar() {
                             icon={ForumIcon}
                             path={"/comment"}
                         />
-                        <Divider />
-                        <Link
-                            href={"https://blog.zhksb.net"}
-                            rel={"noopener self"}
-                            target={"_blank"}
-                            underline={"none"}
-                            color={"inherit"}
-                        >
-                            <ListItemButton>
-                                <ListItemIcon>
-                                    <BookRoundedIcon />
-                                </ListItemIcon>
-                                <ListItemText primary={"Blog"} />
-                            </ListItemButton>
-                        </Link>
                     </List>
                 </div>
             </Drawer>
