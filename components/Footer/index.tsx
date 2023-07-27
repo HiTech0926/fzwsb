@@ -45,7 +45,7 @@ export default function Footer() {
                 >
                     {"AHdark"}
                 </Link>
-                {"Website by "}
+                {" Website by "}
                 <Link
                     href={"https://im.hitech0926.com"}
                     underline={"none"}
