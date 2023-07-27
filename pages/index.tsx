@@ -52,7 +52,7 @@ export default function Home() {
             <Head>
                 <meta
                     name={"description"}
-                    content={"张贺凯小朋友傻逼到超乎你的想象"}
+                    content={"樊郑伟小朋友傻逼到超乎你的想象"}
                 />
                 <link rel="prefetch" href="//stat.ahdark.com" />
             </Head>
@@ -64,7 +64,7 @@ export default function Home() {
                     {/*
                      <img
                      src={"https://q3.a1pic.cn/2022/02/08/M0wM.png"}
-                     alt="张贺凯"
+                     alt="樊郑伟"
                      className={classes.avatar}
                      />
                      */}
@@ -81,7 +81,7 @@ export default function Home() {
                         className={classes.title}
                         align={"center"}
                     >
-                        {"欢迎评论张大佬"}
+                        {"欢迎评论樊郑伟"}
                     </Typography>
                     <Typography
                         variant={"body1"}
@@ -97,11 +97,11 @@ export default function Home() {
 					 align={"center"}
 					 fontWeight={"bold"}
 					 >
-					 {"千万不要买我的服务器，我"}
+					 {"千万不要相信我，我"}
 					 <span style={{ color: "#FF0000" }}>
-					 {"每三天就必须跑路一次"}
+					 {"每次帮助你都要帮你加上后门"}
 					 </span>
-					 {"，没办法，生理需求。"}
+					 {"，没办法，这就是锻炼自己。"}
 					 </Typography>
 					 <Typography
 					 variant={"body1"}
