@@ -27,13 +27,13 @@ const MyApp: FC<
     const title = useAppSelector<string | null>((state) => state.view.title);
 
     useEffect(() => {
-        window.document.title = title !== null ? `${title} - ZHKSB` : "ZHKSB";
+        window.document.title = title !== null ? `${title} - FZWSB` : "FZWSB";
     }, [title]);
 
     return (
         <>
             <Head>
-                <title>{title !== null ? `${title} - ZHKSB` : "ZHKSB"}</title>
+                <title>{title !== null ? `${title} - FZWSB` : "FZWSB"}</title>
                 <meta
                     name="viewport"
                     content="initial-scale=1, width=device-width"
@@ -54,8 +54,8 @@ const MyApp: FC<
             </CacheProvider>
             <Script id={"matomo"} strategy="lazyOnload">
                 {`var _paq=window._paq=window._paq||[];
-_paq.push(["setCookieDomain","*.www.zhksb.net"]);
-_paq.push(["setDomains",["*.www.zhksb.net","*.zhksb.net"]]);
+_paq.push(["setCookieDomain","*.fzwsb.icu"]);
+_paq.push(["setDomains",["*.fzwsb.icu","*.fzwsb.icu"]]);
 _paq.push(["enableCrossDomainLinking"]);
 _paq.push(["trackPageView"]);
 _paq.push(["enableLinkTracking"]);
