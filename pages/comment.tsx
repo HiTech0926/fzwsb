@@ -39,7 +39,7 @@ const Comment: FC = () => {
     return (
         <>
             <Head>
-                <meta name={"description"} content={"评论一下张大佬吧"} />
+                <meta name={"description"} content={"评论一下樊郑伟吧"} />
                 <link rel="prefetch" href="//stat.ahdark.com" />
             </Head>
 
