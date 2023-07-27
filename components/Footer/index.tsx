@@ -56,12 +56,12 @@ export default function Footer() {
                 </Link>
                 {" and served on "}
                 <Link
-                    href={"https://www.cloudflare.com"}
+                    href={"https://vercel.com/"}
                     underline={"none"}
                     rel={"sponsor noreferrer noopener"}
                     target={"_blank"}
                 >
-                    {"CloudFlare"}
+                    {"Vercel"}
                 </Link>
                 {"."}
             </Typography>
