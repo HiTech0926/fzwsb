@@ -61,19 +61,12 @@ export default function Home() {
             <NavBar />
             <Container maxWidth={"md"}>
                 <Box className={classes.main}>
-                    {/*
-                     <img
-                     src={"https://q3.a1pic.cn/2022/02/08/M0wM.png"}
-                     alt="樊郑伟"
-                     className={classes.avatar}
-                     />
-                     */}
-                    /*<Box
+			{/*<Box
                         component={"img"}
                         src={logoImage.src}
                         className={classes.avatar}
                         alt="Logo"
-                    />*/
+                    />*/}
 
                     <Typography
                         variant={"h3"}
