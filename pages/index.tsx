@@ -83,7 +83,6 @@ export default function Home() {
                     >
                         {"侧边栏可通过左上角按钮控制开合    "}
                     </Typography>
-                    {/*
 					 <Typography
 					 variant={"body1"}
 					 component={"p"}
@@ -101,11 +100,7 @@ export default function Home() {
 					 component={"p"}
 					 align={"center"}
 					 >
-					 {
-					 "I'm mentally retarded and I like sucking other people's dicks."
-					 }
 					 </Typography>
-					 */}
                 </Box>
                 <Footer />
             </Container>
