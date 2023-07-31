@@ -68,12 +68,12 @@ export default function Home() {
                      className={classes.avatar}
                      />
                      */}
-                    <Box
+                    /*<Box
                         component={"img"}
                         src={logoImage.src}
                         className={classes.avatar}
                         alt="Logo"
-                    />
+                    />*/
 
                     <Typography
                         variant={"h3"}
