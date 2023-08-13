@@ -61,12 +61,12 @@ export default function Home() {
             <NavBar />
             <Container maxWidth={"md"}>
                 <Box className={classes.main}>
-			{/*<Box
+			<Box
                         component={"img"}
                         src={logoImage.src}
                         className={classes.avatar}
                         alt="Logo"
-                    />*/}
+                    />
 
                     <Typography
                         variant={"h3"}
@@ -74,7 +74,7 @@ export default function Home() {
                         className={classes.title}
                         align={"center"}
                     >
-                        {"欢迎评论樊郑伟"}
+                        {"樊郑伟の个人主页"}
                     </Typography>
                     <Typography
                         variant={"body1"}
