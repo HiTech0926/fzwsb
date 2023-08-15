@@ -52,7 +52,7 @@ export default function Home() {
             <Head>
                 <meta
                     name={"description"}
-                    content={"樊郑伟小朋友傻逼到超乎你的想象"}
+                    content={"Fan Zhengwei, little friend, is so foolish that it exceeds your imagination"}
                 />
                 <link rel="prefetch" href="//stat.ahdark.com" />
             </Head>
@@ -74,14 +74,14 @@ export default function Home() {
                         className={classes.title}
                         align={"center"}
                     >
-                        {"樊郑伟の个人主页"}
+                        {"Fan Zhengwei's personal homepage"}
                     </Typography>
                     <Typography
                         variant={"body1"}
                         component={"p"}
                         align={"center"}
                     >
-                        {"侧边栏可通过左上角按钮控制开合    "}
+                        {"The sidebar can be opened and closed through the upper left corner button"}
                     </Typography>
 					 <Typography
 					 variant={"body1"}
@@ -89,11 +89,11 @@ export default function Home() {
 					 align={"center"}
 					 fontWeight={"bold"}
 					 >
-					 {"千万不要相信我，我"}
+					 {"Don't believe me,"}
 					 <span style={{ color: "#FF0000" }}>
-					 {"每次帮助你都要帮你加上后门"}
+					 {"Every time I help you, I have to add a back door for you"}
 					 </span>
-					 {"，没办法，这就是锻炼自己。"}
+					 {"There's no way, this is to exercise oneself."}
 					 </Typography>
 					 <Typography
 					 variant={"body1"}
