@@ -5,7 +5,7 @@ export default function Footer() {
     return (
         <Box component={"footer"} textAlign={"center"} sx={{ margin: 1 }}>
             <Link
-                href={"https://github.com/HiTech0926/fzwsb"}
+                href={"https://github.com/dshab-group/fzwsb"}
                 rel={"noopener"}
                 underline={"none"}
                 color={"inherit"}
@@ -25,13 +25,13 @@ export default function Footer() {
             <Typography variant={"body2"} component={"p"}>
                 {"Copyright © 2023 "}
                 <Link
-                    href={"https://github.com/HiTech0926/fzwsb"}
+                    href={"https://github.com/dshab-group"}
                     underline={"none"}
                     rel={"self noopener"}
                     target={"_blank"}
                     fontWeight={"bold"}
                 >
-                    {"FZWSB Group"}
+                    {"Dshab Group"}
                 </Link>
                 {" All Right Reserved."}
             </Typography>
@@ -44,16 +44,6 @@ export default function Footer() {
                     target={"_blank"}
                 >
                     {"AHdark"}
-                </Link>
-                {" Website by "}
-                <Link
-                    href={"https://im.hitech0926.com"}
-                    underline={"none"}
-                    rel={"author noopener"}
-                    target={"_blank"}
-                >
-                    {"HiTech0926"}
-                </Link>
                 {" and served on "}
                 <Link
                     href={"https://vercel.com/"}
