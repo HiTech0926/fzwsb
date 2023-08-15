@@ -44,6 +44,7 @@ export default function Footer() {
                     target={"_blank"}
                 >
                     {"AHdark"}
+                </Link>
                 {" and served on "}
                 <Link
                     href={"https://vercel.com/"}
