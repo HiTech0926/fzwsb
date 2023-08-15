@@ -1,8 +1,8 @@
 # About
 
-**让更多人知道樊郑伟这个傻逼，让更少的人去相信他**
-本仓库Fork自AHdark，原作者AHdark
-原链接：[点击打开](https://github.com/lezi-wiki/zhksb-net)
+**Let more people know that Fan Zhengwei is a fool, and let fewer people believe him**
+This warehouse Fork is from AHdark, and the original author AHdark
+Original Link：[Click to open](https://github.com/lezi-wiki/zhksb-net)
 - [AHdark](https://ahdark.com)
 
 
